@@ -4,7 +4,7 @@
   "description": "hashbardd.me",
   "scripts": {
     "test": "mocha",
-    "compile": "echo \"No compilation needed for static web sites.\""
+    "deploy": "surge"
   },
   "repository": {
     "type": "git",

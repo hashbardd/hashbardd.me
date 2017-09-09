@@ -6,3 +6,6 @@ node_js:
 
 deploy:
   provider: surge
+
+after_script:
+  - npm run deploy
