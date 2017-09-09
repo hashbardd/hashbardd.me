@@ -1,0 +1,23 @@
+{
+  "name": "hashbardd.me",
+  "version": "1.0.0",
+  "description": "hashbardd.me",
+  "scripts": {
+    "test": "mocha",
+    "compile": "echo \"No compilation needed for static web sites.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashbardd/hashbardd.me.git"
+  },
+  "author": "Nicolò Gardoni <nicolo.gardoni@hashbardd.me> (http://hashbardd.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hashbardd/hashbardd.me/issues"
+  },
+  "homepage": "https://github.com/hashbardd/hashbardd.me#readme",
+  "devDependencies": {
+    "mocha": "latest",
+    "surge": "latest"
+  }
+}
